@@ -1,4 +1,4 @@
-package Day10;
+package Day12;
 
 // Enum with behavior
 enum Priority {
